@@ -1,9 +1,5 @@
 ### Oi! Me chamo Matheus Dário
 
-- 🔭 Estou estudando desenvolvimento full stack
-- 🌱 Aprendendo React e SQL
-- 👊 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/mathdario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathdario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,3 +13,7 @@
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Raiden-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ca/a4/12/caa41223ace4bb4932c6f00c9d205e25.gif">
 </div>
+  
+- 🔭 Estou estudando desenvolvimento full stack
+- 🌱 Aprendendo React e SQL
+- 👊 Pronouns: ele/dele
