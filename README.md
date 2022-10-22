@@ -14,6 +14,9 @@
   <img align="right" alt="Raiden-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ca/a4/12/caa41223ace4bb4932c6f00c9d205e25.gif">
 </div>
   
+  
+  
+  
 - 🔭 Estou estudando desenvolvimento full stack
 - 🌱 Aprendendo React e SQL
 - 👊 Pronouns: ele/dele
