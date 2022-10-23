@@ -1,5 +1,4 @@
 ## Oi, eu sou o Matheus Dário, estudante de desenvolvimento web fullstack!
-
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusdnbraga/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathdario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,4 +27,3 @@
   ![Snake animation](https://github.com/mathdario/mathdario/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
