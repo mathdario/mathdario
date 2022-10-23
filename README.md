@@ -1,4 +1,4 @@
-### Oi! Me chamo Matheus Dário
+## Oi! Me chamo Matheus Dário
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusdnbraga/">
@@ -12,8 +12,10 @@
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Raiden-pic" height="150" style="border-radius:50px;" src="https://scontent.fbfh4-1.fna.fbcdn.net/v/t39.30808-6/271643608_121563420371430_6554908236033284539_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Q3jCl9wownQAX9ZDhF5&_nc_ht=scontent.fbfh4-1.fna&oh=00_AT_Kj8ynV8tXH1EkG6SeSSrpAqoZ8XiFKL5BbQ0rFp5GnQ&oe=63595BC6">
+  <img align="right" alt="Raiden-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/239186982264242176/1033540553951936564/unknown.png?width=676&height=676">
 </div>
+  
+  ##
   
 - 🔭 Estou estudando desenvolvimento full stack
 - 🌱 Aprendendo React e SQL
