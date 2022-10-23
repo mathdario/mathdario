@@ -1,4 +1,4 @@
-## Oi! Me chamo Matheus Dário
+## Oi, eu sou o Matheus Dário, estudante de desenvolvimento web fullstack!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusdnbraga/">
