@@ -15,10 +15,6 @@
 </div>
   
   ##
-  
-- :telescope: Estou estudando desenvolvimento full stack
-- :seedling: Aprendendo React e SQL
-- :punch: Pronouns: ele/dele
 
 <div> 
   <a href = "mailto:matheus-dario@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
