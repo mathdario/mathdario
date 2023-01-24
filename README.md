@@ -1,9 +1,9 @@
-## Oi, eu sou o Matheus Dário, estudante de desenvolvimento web fullstack!
-<div align="center">
-  <a href="https://github.com/mathdario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathdario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdario&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## Welcome to my github 🤗
+
+Passionate about the best web development technologies, coffee and games.
+
+I aim to become an excellent Full Stack developer with a focus on Back-end, looking for new professional and personal learning. 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
