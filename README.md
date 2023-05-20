@@ -15,6 +15,7 @@ I am actively seeking opportunities to work as a Junior Full Stack, Backend or F
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Math-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="right" alt="Raiden-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/239186982264242176/1033540553951936564/unknown.png?width=676&height=676">
 </div>
   
