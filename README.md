@@ -1,8 +1,12 @@
 ## Welcome to my github 🤗
 
-Passionate about the best web development technologies, coffee and games.
+My name is Matheus and I have a degree in Full Stack Software Development from Cubos Academy.
 
-I aim to become an excellent Full Stack developer with a focus on Back-end, looking for new professional and personal learning. 
+I have knowledge in JavaScript, SQL, RESTful APIs, Express.js, Node.js, HTML, CSS, Material UI, React, TypeScript, Git and Figma. I am currently focused on improving my skills in Next.js, TailwindCSS and Prisma (with future interests in Docker and OOP).
+
+Passionate about the best web development technologies, coffee and games, I enjoy watching series and movies, as well as reading books that help me become a better person.
+
+I am actively seeking opportunities to work as a Junior Full Stack, Backend or Frontend developer. I am excited to contribute to challenging projects and be part of an inspiring team.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
