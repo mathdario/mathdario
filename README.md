@@ -25,7 +25,7 @@ I am actively seeking opportunities to work as a Junior Full Stack, Backend or F
   ##
 
 <div> 
-  <a href = "mailto:matheus_dario@outlook.com"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" target="_blank"></a>
+  <a href = "mailto:matheus_dario@outlook.com"><img height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusdnb/" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> 
  
   ![Snake animation](https://github.com/mathdario/mathdario/blob/output/github-contribution-grid-snake.svg)
