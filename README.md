@@ -33,7 +33,7 @@ I am actively seeking opportunities to work as a Junior Full Stack, Backend or F
 -   I love RPG games and shooter games. 🎮
 -   I **REALLY** like Genshin Impact. 🌸
 -   When I'm excited about a subject, I have hyperfocus on it. 🔭
--   I love exotic animals. 🐍
+-   I love exotic animals. 🦎
 
 <br/>
 
